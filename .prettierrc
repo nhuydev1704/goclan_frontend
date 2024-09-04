@@ -4,7 +4,5 @@
   "singleQuote": true,
   "trailingComma": "none",
   "tabWidth": 2,
-  "useTabs": false,
-  "htmlWhitespaceSensitivity": "ignore",
-  "bracketSameLine": false
+  "useTabs": false
 }
